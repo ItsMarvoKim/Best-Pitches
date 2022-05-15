@@ -5,6 +5,7 @@ PAP is a web application that enables users to post their elevator pitches as we
  and pick up lines. Users also have the ability to view other posts that different users have posted in the platform as well as comments, likes and dislikes. Users are required to register in the platform in order to use the application's features.
 
 Application features include:
+
 1. Posting pitches and other texts by category
 2. Liking and disliking posts
 3. Commenting on posts
